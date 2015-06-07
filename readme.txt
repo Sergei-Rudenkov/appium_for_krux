@@ -1,0 +1,1 @@
+Basic strucuture for appium testing 
