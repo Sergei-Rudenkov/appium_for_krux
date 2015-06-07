@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Android Facebook Test">
+
+    <test name="Local Facebook Android Test">
+        <!-- <parameter name="version" value="4.4.2"></parameter> -->
+         <classes>
+             <class name="tests.RemoteFacebookAndroidTest" />
+         </classes>
+     </test>
+ </suite>
