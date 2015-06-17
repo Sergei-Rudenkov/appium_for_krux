@@ -6,7 +6,7 @@
     <test name="Local Facebook Android Test">
         <!-- <parameter name="version" value="4.4.2"></parameter> -->
          <classes>
-             <class name="tests.RemoteFacebookAndroidTest" />
+             <class name="tests.FirstKruxRemoteTest" />
          </classes>
      </test>
  </suite>
